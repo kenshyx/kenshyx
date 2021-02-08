@@ -1,4 +1,4 @@
- 🔭 I’m currently working on [AKASHA Foundation](https://akasha.org/about/)
+ 🔭 I’m currently working at [AKASHA Foundation](https://akasha.org/about/)
 
 <a href="https://github.com/kenshyx">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=kenshyx&show_icons=true&theme=solarized-dark&count_private=true" alt="Kenshyx's github stats" />
