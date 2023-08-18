@@ -1,6 +1,8 @@
  🔭 I’m currently working at [AKASHA Foundation](https://akasha.org/about/)
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=kenshyx&theme=transparent)](https://git.io/streak-stats)
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=kenshyx&rank=-C,-B&column=4&margin-w=12&no-bg=true&no-frame=true)](https://github.com/kenshyx)
  
 <!--
 **kenshyx/kenshyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
