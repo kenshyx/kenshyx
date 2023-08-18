@@ -1,8 +1,7 @@
  🔭 I’m currently working at [AKASHA Foundation](https://akasha.org/about/)
 
-<a href="https://github.com/kenshyx">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kenshyx&show_icons=true&theme=solarized-dark&count_private=true" alt="Kenshyx's github stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshyx&theme=solarized-dark&layout=compact" alt="Kenshyx's github top languages" />
+ [![GitHub Streak](https://streak-stats.demolab.com?user=kenshyx&theme=transparent)](https://git.io/streak-stats)
+ 
 <!--
 **kenshyx/kenshyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
