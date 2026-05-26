@@ -1,4 +1,4 @@
-# Hi there, I'm Marius Darila 👋 `kenshyx`
+# Hi there, I'm Marius 👋
 
 Senior Software Engineer, specializing in distributed systems, decentralized identity, and highly scalable web infrastructure. Over the last 10 years, I have focused on bridging Web3 ecosystems with intuitive, cross-platform full-stack engineering.
 
