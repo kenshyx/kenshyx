@@ -29,4 +29,4 @@ I am a Senior Software Engineer specializing in distributed systems, decentraliz
 
 ### 📫 Connect with Me
 
-- 👔 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marius-d-8706506a?utm_source=github&utm_medium=readme)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marius-d-8706506a?utm_source=github&utm_medium=readme)
