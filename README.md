@@ -1,19 +1,32 @@
+# Hi there, I'm Marius Darila 👋 `kenshyx`
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshyx&layout=compact&theme=tokyonight" />
-</p>
+Senior Software Engineer, specializing in distributed systems, decentralized identity, and highly scalable web infrastructure. Over the last 10 years, I have focused on bridging Web3 ecosystems with intuitive, cross-platform full-stack engineering.
 
-<!--
-**kenshyx/kenshyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Core Focus**: Designing resilient modular frameworks, decentralized social infrastructure, and optimizing data layers for Web3 applications.
+- 🛠️ **Deep Dive**: Involved in P2P protocols, federated data ecosystems, identity solutions (DIDs, UCAN), and smart contract architectures.
+---
+
+### 🛠️ Technical Skills
+
+| Layer | Technologies & Ecosystems |
+| :--- | :--- |
+| **Backend & Distributed Systems** | `Node.js` • `Rust` • `Go` • `Python` • `Microservices` • `Federated GraphQL` • `P2P Protocols` |
+| **Web3 & Decentralized Identity** | `Ethereum` • `Solidity` • `Wagmi` • `Reown` • `Ceramic (ComposeDB)` • `IPFS` • `DIDs` • `UCAN` • `Ethers.js` |
+| **Infrastructure & AI** | `Kubernetes` • `Docker` • `GitHub Actions` • `Cloudflare Stack` • `RAG` • `LangChain` |
+| **Frontend Engineering** | `TypeScript` • `React` • `React Native` • `TanStack` • `Tailwind CSS` • `Shadcn/ui` |
+
+---
+
+### 🌟 Key Open-Source Contributions & Ecosystems
+
+* **[AKASHA Core & SDK](https://github.com/AKASHAorg/akasha-core)** – Built and maintained the monorepo for the modular core framework, streamlining blockchain-based dApp creation and establishing architecture across distributed components.
+
+---
+
+### 📫 Connect with Me
+
+- 👔 **LinkedIn**: [marius-d-8706506a](https://www.linkedin.com/in/marius-d-8706506a)
