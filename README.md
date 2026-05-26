@@ -1,6 +1,6 @@
-# Hi there, I'm Marius 👋
+# Hi there 👋
 
-Senior Software Engineer, specializing in distributed systems, decentralized identity, and highly scalable web infrastructure. Over the last 10 years, I have focused on bridging Web3 ecosystems with intuitive, cross-platform full-stack engineering.
+I am a Senior Software Engineer specializing in distributed systems, decentralized identity, and highly scalable web infrastructure. Over the last 10 years, I have focused on bridging Web3 ecosystems with intuitive, cross-platform full-stack engineering.
 
 ---
 
@@ -29,4 +29,4 @@ Senior Software Engineer, specializing in distributed systems, decentralized ide
 
 ### 📫 Connect with Me
 
-- 👔 **LinkedIn**: [marius-d-8706506a](https://www.linkedin.com/in/marius-d-8706506a)
+- 👔 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marius-d-8706506a?utm_source=github&utm_medium=readme)
